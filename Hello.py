@@ -1,1 +1,5 @@
 print("Hello, Python!")
+print("勉強開始～～")
+print("with English no problem")
+print("1234567890")
+print("出力できんのか？")
